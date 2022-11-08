@@ -54,6 +54,9 @@ body {
     border-right: 2px solid rgb(78, 78, 78);
 
 }
+.nav-items li:hover {
+    background-color:  rgb(164, 164, 164);
+}
 .nav-items li a{
     text-decoration: none;
     color: black;
